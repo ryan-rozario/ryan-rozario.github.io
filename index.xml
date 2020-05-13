@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ryan-rozario</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on ryan-rozario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>&lt;p&gt;Follow me, @johndoe.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>&lt;h2 id=&#34;improving-neural-network-classifiers-using-nearest-neighbor-partitioning&#34;&gt;Improving Neural-Network Classifiers Using Nearest Neighbor Partitioning&lt;/h2&gt;
+&lt;p&gt;Implemented the paper &lt;em&gt;Wang, Lin, et al. &amp;ldquo;Improving neural-network classifiers using nearest neighbor partitioning.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A neural network is used to reduce the dimensionality of data, so as to perform KNN faster. This neural network is trained using particle swarm optimization&lt;/p&gt;
+&lt;h2 id=&#34;movie-recommender&#34;&gt;Movie Recommender&lt;/h2&gt;
+&lt;p&gt;Movie Recommendation System that uses collaborative filtering. We use the MovieLens100K Dataset to obtain data for the system.&lt;/p&gt;
+&lt;h2 id=&#34;github-action-pipreqs-action&#34;&gt;Github Action: pipreqs-action&lt;/h2&gt;
+&lt;p&gt;Github action that automatically creates the requirement.txt file for your python project using pipreqs&lt;/p&gt;
+&lt;h2 id=&#34;nitk-sc-portal&#34;&gt;NITK-SC-Portal&lt;/h2&gt;
+&lt;p&gt;Student Council Portal for NITK. Display information about the council members and various clubs of NITK and arange them into different groups.&lt;/p&gt;
+&lt;h2 id=&#34;file-system-benchmarking&#34;&gt;File System Benchmarking&lt;/h2&gt;
+&lt;p&gt;Presented at 3rd International Conference on Trends in
+Electronics and Informatics 2019&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;G. Rakshith, R. Rozario, M. Rhevanth, K. M. Nikitha and B. R. Mohan, &amp;ldquo;Performance analysis of secondary storage media through file systems benchmarking,&amp;rdquo; 2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI), Tirunelveli, India, 2019, pp. 1222-1226, doi: 10.1109/ICOEI.2019.8862717.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;smart-contract-for-loyalty-points-systems&#34;&gt;Smart Contract for Loyalty Points Systems&lt;/h2&gt;
+&lt;p&gt;Designed the smart contracts for a loyalty program system, where the loyalty points are ERC20 Mintable tokens and each retailer has his own token.&lt;/p&gt;
+&lt;h2 id=&#34;aco-based-algorithm-to-solve-travelling-salesman-probelem&#34;&gt;ACO based algorithm to solve Travelling Salesman Probelem&lt;/h2&gt;
+&lt;p&gt;Designed an algorithm to approximately solve the Travelling Salesman Probelem using ant colony optimization&lt;/p&gt;
+&lt;h2 id=&#34;r-trees-in-python&#34;&gt;R-Trees in Python&lt;/h2&gt;
+&lt;p&gt;Implementing the data structure of R-Trees to store spacial information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ryan Rozario</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>&lt;p&gt;I am a pre-final year at National Institute of Technology Karnataka majoring in Information Technology. I am currently exploring the fields of Web Development, Machine Learning, Blockchain and Cryptography.&lt;/p&gt;
+&lt;p&gt;I am a curious person who loves discovering how things work and finding ways to make them better. In my spare time, I am an avid reader of crime thrillers, love playing CTFs and am trying to improve my cooking skills.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ryan-rozario&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Contact me at &lt;a href=&#34;mailto:ryan.rozario1999@gmail.com&#34;&gt;ryan.rozario1999@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;B.Tech Information Technology&lt;/strong&gt; - National Institute of Technology Karnataka - CGPA 8.58&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grade 12&lt;/strong&gt; - CBSE - 92.8 %&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grade 10&lt;/strong&gt; - CBSE - CGPA 10&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
