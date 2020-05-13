@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ryan-rozario</title>
-    <link>http://www.example.com/</link>
+    <link>https://ryan-rozario.github.io/</link>
     <description>Recent content on ryan-rozario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ryan-rozario.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>https://ryan-rozario.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>https://ryan-rozario.github.io/contact/</guid>
       <description>&lt;p&gt;Follow me, @johndoe.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <link>https://ryan-rozario.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>https://ryan-rozario.github.io/projects/</guid>
       <description>&lt;h2 id=&#34;improving-neural-network-classifiers-using-nearest-neighbor-partitioning&#34;&gt;Improving Neural-Network Classifiers Using Nearest Neighbor Partitioning&lt;/h2&gt;
 &lt;p&gt;Implemented the paper &lt;em&gt;Wang, Lin, et al. &amp;ldquo;Improving neural-network classifiers using nearest neighbor partitioning.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A neural network is used to reduce the dimensionality of data, so as to perform KNN faster. This neural network is trained using particle swarm optimization&lt;/p&gt;
@@ -50,10 +50,10 @@ Electronics and Informatics 2019&lt;/p&gt;
     
     <item>
       <title>Ryan Rozario</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://ryan-rozario.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://ryan-rozario.github.io/about/</guid>
       <description>&lt;p&gt;I am a pre-final year at National Institute of Technology Karnataka majoring in Information Technology. I am currently exploring the fields of Web Development, Machine Learning, Blockchain and Cryptography.&lt;/p&gt;
 &lt;p&gt;I am a curious person who loves discovering how things work and finding ways to make them better. In my spare time, I am an avid reader of crime thrillers, love playing CTFs and am trying to improve my cooking skills.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/ryan-rozario&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
